@@ -1,12 +1,13 @@
 # Text Mining in R
+[![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 ## Twitter Sentiment Analysis using Python
 
 [![Generic badge](https://img.shields.io/badge/Text-Mining-teal.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R) 
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/R-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)[![Makes people smile]
+[![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/R-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
 #### The project is about searching the text mining for classification using bag of words [#bagofwords](https://github.com/iamsivab/Text-Mining-in-R) and applying machine learning models on this.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Text-Mining-in-R.svg?logo=github&style=social)](https://github.com/iamsivab/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size//iamsivab/Text-Mining-in-R.svg?logo=git&style=social)](https://github.com/iamsivab/) [![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Text-Mining-in-R.svg?logo=python&style=social)](https://github.com/iamsivab/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Text-Mining-in-R.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Text-Mining-in-R.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Text-Mining-in-R.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
 ### `#R` `#MachineLearning` `#NLP`
@@ -30,7 +31,7 @@ Text classification or text categorization is an activity of labelling natural l
 2. I decided to sort the EDA process into two categories: general pre-processing steps that were common across all vectorizers and models and certain pre-processing steps that I put as options to measure model performance with or without them
 3. Accuracy was chosen as a measure of comparison between models since greater the accuracy, better the model performance on test data.
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/iamsivab/Text-Mining-in-R) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) (https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/iamsivab/)[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)]
+[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/iamsivab/Text-Mining-in-R) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
 
 #### Explanation
 
@@ -88,13 +89,13 @@ Statistics by Class:
 
 ### Libraries Used
 
-[![R Studio](https://img.shields.io/badge/R-dplyr-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-stringr-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-readtext-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-e1071-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-mlr-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-caret-blue.svg?style=flat&logo=r&logoColor=white)] 
-[![R Studio](https://img.shields.io/badge/R-randomForest-blue.svg?style=flat&logo=r&logoColor=white)] 
+![R Studio](https://img.shields.io/badge/R-dplyr-blue.svg?style=flat&logo=r&logoColor=white) 
+![R Studio](https://img.shields.io/badge/R-stringr-blue.svg?style=flat&logo=r&logoColor=white)
+![R Studio](https://img.shields.io/badge/R-readtext-blue.svg?style=flat&logo=r&logoColor=white) 
+![R Studio](https://img.shields.io/badge/R-e1071-blue.svg?style=flat&logo=r&logoColor=white) 
+![R Studio](https://img.shields.io/badge/R-mlr-blue.svg?style=flat&logo=r&logoColor=white)
+![R Studio](https://img.shields.io/badge/R-caret-blue.svg?style=flat&logo=r&logoColor=white) 
+![R Studio](https://img.shields.io/badge/R-randomForest-blue.svg?style=flat&logo=r&logoColor=white) 
 
 
 ### Installation
@@ -159,10 +160,10 @@ git clone https://github.com/iamsivab/Text-Mining-in-R.git
 
 ### License
 
-MIT &copy; [Vinit Shahdeo](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE)
+MIT &copy; [Sivasubramanian](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE)
 
 [![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/0)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/0)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/1)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/1)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/2)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/2)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/3)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/3)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/4)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/4)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/5)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/5)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/6)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/6)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/images/7)](https://sourcerer.io/fame/iamsivab/iamsivab/Text-Mining-in-R/links/7)
 
 
-[![GitHub license](https://img.shields.io/github/license//iamsivab/Text-Mining-in-R.svg?style=social&logo=github)](https://github.com/iamsivab/Text-Mining-in-R//blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/github/license/iamsivab/Text-Mining-in-R.svg?style=social&logo=github)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE) 
 [![GitHub forks](https://img.shields.io/github/forks/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/)
