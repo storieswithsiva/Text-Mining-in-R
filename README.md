@@ -1,6 +1,6 @@
 # Text Mining in R
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
-## Twitter Sentiment Analysis using Python
+## Sentiment Analysis Text Mining using R
 
 [![Generic badge](https://img.shields.io/badge/Text-Mining-teal.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/R-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
@@ -131,7 +131,7 @@ Statistics by Class:
 
 [![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Text&message=Mining&color=lightgray&logo=linkedin&style=social&colorA=critical)](https://www.linkedin.com/in/iamsivab/) [![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Text-Mining-in-R.svg?logo=php&style=social)](https://github.com/iamsivab/)
 
-[Text Mining Analyzer](https://github.com/iamsivab//Text-Mining-in-R) - A Detailed Report on the Analysis
+[Text Mining Analyzer](https://github.com/iamsivab/Text-Mining-in-R) - A Detailed Report on the Analysis
 
 
 ### Contributing
