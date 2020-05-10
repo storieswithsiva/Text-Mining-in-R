@@ -28,7 +28,9 @@ Text classification or text categorization is an activity of labelling natural l
 3 major steps in `Text-Mining-in-R` code :
 
 1. While training and building a model keep in mind that the first model is never the best one, so the best practice is the “trial and error” method. To make that process simpler, you should create a function for training and in each attempt save results and accuracies.
+
 2. I decided to sort the EDA process into two categories: general pre-processing steps that were common across all vectorizers and models and certain pre-processing steps that I put as options to measure model performance with or without them
+
 3. Accuracy was chosen as a measure of comparison between models since greater the accuracy, better the model performance on test data.
 
 [![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/iamsivab/Text-Mining-in-R) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
@@ -166,4 +168,4 @@ MIT &copy; [Sivasubramanian](https://github.com/iamsivab/Text-Mining-in-R/blob/m
 
 
 [![GitHub license](https://img.shields.io/github/license/iamsivab/Text-Mining-in-R.svg?style=social&logo=github)](https://github.com/iamsivab/Text-Mining-in-R/blob/master/LICENSE) 
-[![GitHub forks](https://img.shields.io/github/forks/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/)
+[![GitHub forks](https://img.shields.io/github/forks/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Text-Mining-in-R.svg?style=social)](https://github.com/iamsivab/Text-Mining-in-R/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/iamsivab/ama)
