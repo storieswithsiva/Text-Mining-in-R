@@ -149,7 +149,7 @@ git clone https://github.com/iamsivab/Text-Mining-in-R.git
 
 - Check out any issue from [here](https://github.com/iamsivab/Text-Mining-in-R/issues).
 
-- Make changes and send [Pull Request](https://github.com/iamsivab/Text-Mining-in-R/pull).
+- Make changes and send [Pull Request](https://github.com/iamsivab/Text-Mining-in-R/pulls).
  
 ### Need help?
 
