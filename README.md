@@ -1,7 +1,8 @@
 # Text Mining in R
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
-[![HitCount](http://hits.dwyl.com/iamsivab/Text-Mining-in-R.svg)](http://hits.dwyl.com/iamsivab/Text-Mining-in-R)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FText-Mining-in-R)](https://hits.seeyoufarm.com)
+
 ## Sentiment Analysis Text Mining using R
 
 [![Generic badge](https://img.shields.io/badge/Text-Mining-teal.svg?style=for-the-badge)](https://github.com/iamsivab/Text-Mining-in-R) 
